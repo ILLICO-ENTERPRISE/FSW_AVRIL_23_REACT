@@ -1,0 +1,26 @@
+.Form {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 100px;
+}
+
+.Form > input[type="search"] {
+  height: 40px;
+  border-radius: 0;
+  margin-top: 10px;
+  border: 1px solid gray;
+}
+
+button {
+  border: 1px solid black;
+  height: 40px;
+  background-color: transparent;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 60px;
+}
+

@@ -1,0 +1,37 @@
+1. React c'est un framework JS (HTML + CSS + JS)
+2. Utilise ce qu'on appelle lee DOM VIRTUEL
+3. Mais on peuty tout aussi manipuler le DOM REEL
+4. React est orienté composant
+5. C'est essentiellement du code CLIENT
+6. Aujourd'hui on a aussi le coté SERVER
+7. React => COMPOSANTS CLIENT / COMPOSANTS SERVER
+8. On installe React Js avec NPM / YARN / PNPM
+9. NPM / YARN / PNPM sont des gestionnaires de dépendances
+10. NPM / YARN / PNPM permettent d'installer les modules NODE JS
+11. Les commandes d'installation des modules ESX:
+    111. npm install <NOM_PACKAGE>
+    112. yarn add <NOM_PACKAGE>
+    113. pnpm add <NOM_PACKAGE>
+
+12. Installtion du gestionnaire de dépendance
+    LIEN: (https://nodejs.org/dist/v18.16.1/node-v18.16.1.pkg)
+
+13. Installation de react js
+    131. Documentation: 
+        LIEN: (https://fr.legacy.reactjs.org/)
+    132. Installation de react sur la machine
+        COMMANDE: (npm install -g react)
+    133. Créer un projet react
+        LIEN: (https://fr.legacy.reactjs.org/docs/create-a-new-react-app.html)
+
+1. Framework: Ensemble d'outils qui favorise l'optimisation de code
+2. Un framework on a:
+    21. Un server WEB
+    22. Une base de données
+    23. Gestionniare de Files d'attente ( WORKER )
+    24. Des Debugger ( Pour débugger le code en DEVELOPPEMENT )
+    25. Des fichiers de configurations
+    26. Des fichier d'environnement (.env / .env.example)
+
+1. Avec React on parle SPA ( Single Page Application )
+

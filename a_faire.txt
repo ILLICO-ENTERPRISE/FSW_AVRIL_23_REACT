@@ -1,0 +1,25 @@
+. Créer un composant formulaire
+    - Ce formulaire doit avoir 5 INPUT RADIO
+    - A chaque INPUT RADIO y affecter les valeurs:
+        - posts
+        - comments
+        - photos
+        - albums
+        - users
+    - A chaque fois qu'on switch en cliquant sur le radio boutton:
+        - la requête doit se refaire avec le fetchAPI
+        - et charger les bonnes données
+        - ainsi la partie d'affichage des données doit s'adapter en fonction de la requête
+
+. Créer un composant formulaire
+    - Ce formulaire doit avoir 5 INPUT RADIO
+    - A chaque INPUT RADIO y affecter les valeurs:
+        - posts
+        - comments
+        - photos
+        - albums
+        - users
+    - A chaque fois qu'on switch en cliquant sur le radio boutton:
+        - la requête doit se refaire avec le fetchAPI
+        - et charger les bonnes données
+        - ainsi la partie d'affichage des données doit s'adapter en fonction de la requête

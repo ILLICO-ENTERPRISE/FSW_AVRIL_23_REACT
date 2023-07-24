@@ -1,0 +1,10 @@
+.Info {
+  font-weight: bold;
+  color: red;
+}
+
+.Gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
